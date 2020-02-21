@@ -24,6 +24,8 @@ module Language.CoreErlang.Pretty (
 
 import Language.CoreErlang.Syntax
 
+import Prelude hiding ((<>))
+
 import qualified Text.PrettyPrint as P
 
 infixl 5 $$$
