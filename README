@@ -2,7 +2,7 @@
 
 The original CoreErlang package extended to work with `stack`; resolver - 13.14;
 
-------------
+--------------------------------------------------------------------------------------
 
 CoreErlang is a haskell library which consists on a parser and pretty-printer for the intermediate language used by Erlang.
 
